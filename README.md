@@ -1,0 +1,2 @@
+# C-Code-for-documentation-purposes
+I've been in the mood for C again after a long time, and I'm in the process of writing a header file this time that I can include in future C projects to make things easier. I want to have some functions that I know from my work with the .NET framework (for example String.Split() and String.Contains()). Furthermore, there are many useful little things in the header file.
